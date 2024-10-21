@@ -3,7 +3,6 @@ sys.path.append(os.pardir)
 import numpy as np
 from dataset.mnist import load_mnist
 from TwoLayerNet158 import TwoLayerNet
-from keras.dataset import mnist
 
 #from tensorflow.keras.datasets import mnist
 
